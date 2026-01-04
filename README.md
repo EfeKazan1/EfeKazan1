@@ -4,13 +4,13 @@
 
 Adnan Menderes Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. **Gömülü Sistemler (Embedded Systems)** ve **IoT** teknolojileri üzerine yoğunlaşıyorum.
 
-Sadece kod yazmayı değil; **performans, bellek yönetimi (Memory Management) ve gerçek zamanlı kısıtlamalar (Real-Time Constraints)** altında optimize edilmiş mimariler kurmayı hedefliyorum. Teorik mühendislik eğitimimi, sahada çalışan endüstriyel projelerle birleştirerek **Savunma Sanayi** standartlarında yetkinlik kazanma yolundayım.
+Sadece kod yazmayı değil; **performans, bellek yönetimi (Memory Management) ve gerçek zamanlı kısıtlamalar (Real-Time Constraints)** altında optimize edilmiş mimariler kurmayı hedefliyorum. Teorik bilgiyi sahada çalışan donanım projelerine dönüştürmeyi seviyorum.
 
 ---
 
 ### 🚀 Teknik Yetkinliklerim ve Odak Alanlarım
 
-Şu anda aktif olarak **ESP32** ve **STM32** mimarileri üzerinde çalışıyor, projelerimde "Super Loop" yapısı yerine endüstriyel standart olan **RTOS (Real-Time Operating System)** mimarilerini tercih ediyorum.
+Şu anda aktif olarak **ESP32** mimarileri üzerinde çalışıyor, projelerimde "Super Loop" yapısı yerine endüstriyel standart olan **RTOS (Real-Time Operating System)** mimarilerini tercih ediyorum.
 
 * **Programlama Dilleri:** C (Low-Level), C++ (OOP & Hardware Abstraction)
 * **Gömülü Teknolojiler:** FreeRTOS, ESP-IDF, Arduino Framework
