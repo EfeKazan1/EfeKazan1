@@ -41,7 +41,4 @@ Son dönemde **"Akıllı Vana Kontrol Sistemi"** ve **"IoT Tabanlı Güvenli Kas
 
 ---
 
-### 📊 GitHub İstatistiklerim
 
-<p align="left">
-<img src="
