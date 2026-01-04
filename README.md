@@ -40,5 +40,10 @@ Son dönemde **"Akıllı Vana Kontrol Sistemi"** ve **"IoT Tabanlı Güvenli Kas
 - **Kalıcı Hafıza:** Elektrik kesintilerine karşı NVS (Non-Volatile Storage) tabanlı veri koruma sistemleri geliştirdim.
 
 ---
+<div align="left">
+  <a href="https://www.linkedin.com/in/s%C3%BCleyman-efe-kazan-0a21632b8/?profileId=ACoAAEwyhroBIy2EL39Q6PG4SfCNT0o5FaP4p80">
+    <img src="https://img.shields.io/badge/LinkedIn-Benimle_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
 
 
